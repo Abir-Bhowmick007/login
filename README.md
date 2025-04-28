@@ -3,7 +3,7 @@
 This is a simple Login Page created with HTML, CSS, and JavaScript.
 ## Demo
 
-![Login Page Demo](images/login-demo.png)
+<img src="image/login-demo.png">
 
 ## Features
 - User Login Form
